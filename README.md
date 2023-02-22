@@ -1,4 +1,4 @@
-# EEP153 Project 2 - Subsistence Diets
+# Project 2 Subsistence Diets (Team Justus von Liebig)
 
 Every living human has some minimal, or subsistence, nutritional requirements; should these not be satisfied health and even life may be threatened. People satisfy these needs by eating various kinds of food, but there may be many different food diets which satisfy people’s subsistence requirements. One criterion for choosing among these diets is cost.
 
