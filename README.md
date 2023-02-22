@@ -1,1 +1,1 @@
-# EEP153-SP23-Proj2
+# EEP153 Project 2 - Subsistence Diets
