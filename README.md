@@ -7,8 +7,12 @@ In this topic students use contemporary data on different kinds of foods availab
 ## Topic & Goals 
 
 ## Meet Team Justus von Liebig
-
-
+- Osbaldo Longoria Nava, Team Manager (email: @berkeley.edu; github: @)
+- Victor Keroles (email: vkeroles@berkeley.edu; github: @vkeroles)
+- Malia Ariyoshi (email: @berkeley.edu; github: @)
+- Christoffer Jason Aryanto (email: @berkeley.edu; github: @)
+- Junming Chu (email: @berkeley.edu; github: @)
+- Zhenyu Fang (email: @berkeley.edu; github: @)
 
 Readings
 - Stigler (1945) “The Cost of Subsistence”
