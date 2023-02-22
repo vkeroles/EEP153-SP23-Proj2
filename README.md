@@ -4,7 +4,12 @@ Every living human has some minimal, or subsistence, nutritional requirements; s
 
 In this topic students use contemporary data on different kinds of foods available to the US population along with prices to construct estimates of minimum cost subsistence diets.
 
-Readings
+## Topic & Goals 
 
-    Stigler (1945) “The Cost of Subsistence”
-    Dantzig (1990) “The Diet Problem”
+## Meet Team Justus von Liebig
+
+
+
+Readings
+- Stigler (1945) “The Cost of Subsistence”
+- Dantzig (1990) “The Diet Problem”
