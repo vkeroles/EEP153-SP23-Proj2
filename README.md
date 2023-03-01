@@ -12,7 +12,7 @@ In this topic students use contemporary data on different kinds of foods availab
 - Malia Ariyoshi (email: mariyoshi@berkeley.edu; github: @maliariyoshi)
 - Christoffer Jason Aryanto (email: caryanto@berkeley.edu; github: @caryanto)
 - Junming Chu (email: junming0119@berkeley.edu; github: @junmingchu)
-- Zhenyu Fang (email: @berkeley.edu; github: @)
+- Zhenyu Fang (email: jerryfang2022@berkeley.edu; github: @)
 
 Readings
 - Stigler (1945) “The Cost of Subsistence”
