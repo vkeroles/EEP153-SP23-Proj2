@@ -9,9 +9,9 @@ In this topic students use contemporary data on different kinds of foods availab
 ## Meet Team Justus von Liebig
 - Osbaldo Longoria Nava, Team Manager (email: osblong@berkeley.edu; github: @osblong)
 - Victor Keroles (email: vkeroles@berkeley.edu; github: @vkeroles)
-- Malia Ariyoshi (email: @berkeley.edu; github: @)
+- Malia Ariyoshi (email: mariyoshi@berkeley.edu; github: @maliariyoshi)
 - Christoffer Jason Aryanto (email: caryanto@berkeley.edu; github: @caryanto)
-- Junming Chu (email: junming@berkeley.edu; github: @junmingchu)
+- Junming Chu (email: @berkeley.edu; github: @junmingchu)
 - Zhenyu Fang (email: @berkeley.edu; github: @)
 
 Readings
