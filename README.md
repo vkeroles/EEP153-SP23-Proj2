@@ -11,7 +11,7 @@ In this topic students use contemporary data on different kinds of foods availab
 - Victor Keroles (email: vkeroles@berkeley.edu; github: @vkeroles)
 - Malia Ariyoshi (email: @berkeley.edu; github: @)
 - Christoffer Jason Aryanto (email: caryanto@berkeley.edu; github: @caryanto)
-- Junming Chu (email: @berkeley.edu; github: @)
+- Junming Chu (email: @berkeley.edu; github: @junmingchu)
 - Zhenyu Fang (email: @berkeley.edu; github: @)
 
 Readings
